@@ -1,0 +1,40 @@
+div {
+
+}
+
+.main {
+
+}
+
+.nav-button {
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+}
+
+.index-point {
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    background-color: #9d9487;
+    display: inline-block;
+}
+
+.index-point-active {
+    background-color: lightskyblue;
+    border: 1px solid black;
+}
+
+.peers {
+    text-align: center;
+}
+
+.indexList {
+    text-align: center;
+
+
+}
+
+.nav-button {
+    border: 1px solid black;
+}
